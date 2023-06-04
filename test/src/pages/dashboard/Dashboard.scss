@@ -1,0 +1,16 @@
+.dashboard-container {
+  .btn-wrapper {
+    text-align: end;
+  }
+  .leave-card-container {
+    margin: 16px 0px;
+    .leave-card {
+      box-shadow: 1px 1px 0px 1px rgba(208, 216, 243, 0.6);
+
+      .ant-card-body {
+        padding: 0;
+        padding-left: 16px;
+      }
+    }
+  }
+}
